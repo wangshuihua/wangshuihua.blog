@@ -1,0 +1,19 @@
+menu:
+  about: /about
+  archives: /archives
+
+excerpt: true
+feed: /atom.xml
+repo: https://icylogic.net
+
+duoshuo: false
+mathjax: true
+
+cdn:
+  normalize: '//dn-staticfile.qbox.me'    
+  carbon: ''
+  duoshuo: '//static.duoshuo.com'
+  jQuery: '//dn-staticfile.qbox.me'
+  pjax: '//dn-staticfile.qbox.me'    
+  mathjax: '//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'
+  
